@@ -1,6 +1,6 @@
 # Hey there, I'm Aryan 👋
 
-Thanks for stopping by! I'm a passionate full stack developer who loves building user-centric applications that solve real-world problems. Whether it’s designing a smooth frontend experience or architecting efficient backend systems, I enjoy turning ideas into scalable, functional products.
+I'm a passionate full stack developer who loves building user-centric applications that solve real-world problems. Whether it’s designing a smooth frontend experience or architecting efficient backend systems, I enjoy turning ideas into scalable, functional products.
 
 ---
 
