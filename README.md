@@ -24,8 +24,7 @@ Thanks for stopping by! I'm a passionate full stack developer who loves building
 - **[Study Notion](https://ed-tech-frontend-y3sn.vercel.app/)** – A course-based platform with instructor dashboards, payment integration, and real-time progress tracking.  
   *Stack*: React, Node.js, MongoDB
 
-- **[Gudz](https://gudz.in/)** – Delivery & fleet tracking SaaS with user role management, dynamic routing, and real-time updates.  
-  *Stack*: TypeScript, React, Node.js, MongoDB
+
 
 ---
 
