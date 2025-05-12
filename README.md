@@ -1,43 +1,46 @@
-Hi there, I'm Aryan 👋
-Welcome to my GitHub! I'm a Full Stack Developer with a passion for building scalable, high-performance web applications. I enjoy solving complex problems, writing clean code, and continuously exploring new technologies.
+# Hey there, I'm Aryan 👋
 
-🛠️ Technologies & Tools
-Languages: HTML, CSS, JavaScript (ES6+), TypeScript
+Thanks for stopping by! I'm a passionate full stack developer who loves building user-centric applications that solve real-world problems. Whether it’s designing a smooth frontend experience or architecting efficient backend systems, I enjoy turning ideas into scalable, functional products.
 
-Frontend: React, Next.js, Tailwind CSS, Shadcn
+---
 
-Backend: Node.js, Express.js, RESTful APIs, JWT, Prisma, Hono
+## 🧰 Tech Stack & Tools
+- **Languages**: JavaScript (ES6+), TypeScript, HTML, CSS
+- **Frontend**: React, Next.js, Tailwind CSS, Shadcn UI
+- **Backend**: Node.js, Express.js, Hono, JWT, Prisma
+- **Databases**: MongoDB, Firebase, PostgreSQL
+- **Other Tools**: Git, GitHub, Postman, VS Code
 
-Databases: MongoDB, Firebase, PostgreSQL
+---
 
-Tools: Git, GitHub, Postman, VS Code
+## 📚 Learning Journey
+- Building secure authentication flows with social login
+- Diving deeper into edge/serverless architecture
+- Strengthening TypeScript patterns for safer apps
 
-🌱 Currently Learning
-Advanced backend system design
+---
 
-Type-safe APIs with Prisma and TypeScript
+## 💼 Featured Projects
+- **[Study Notion](https://ed-tech-frontend-y3sn.vercel.app/)** – A course-based platform with instructor dashboards, payment integration, and real-time progress tracking.  
+  *Stack*: React, Node.js, MongoDB
 
-Enhancing full-stack performance optimization
+- **[Gudz](https://gudz.in/)** – Delivery & fleet tracking SaaS with user role management, dynamic routing, and real-time updates.  
+  *Stack*: TypeScript, React, Node.js, MongoDB
 
-🚀 Projects
-Study Notion – A full-featured ed-tech platform where students can purchase and enroll in courses, and instructors can manage content.
-Tech Stack: JavaScript, Node.js, React, MongoDB
+---
 
-Gudz – A SaaS delivery and fleet management system designed to streamline operations and improve delivery efficiency.
-Tech Stack: TypeScript, Node.js, React, MongoDB
+## 🏅 Highlights
+- 🥈 Intra-College Chess Championship Runner-up – Strategy meets logic!
+- 🤝 Volunteered with Aanandam Group – Giving back through tech & community efforts
 
-🏆 Achievements
-Runner-up in Intra-College Chess Championship – showcasing strategic thinking and focus.
+---
 
-Active member of Aanandam Group – a community welfare organization contributing to social causes.
+## 📬 Let’s Connect
+- 📧 [aryandeveloper41@gmail.com](mailto:aryandeveloper41@gmail.com)
+- 🌐 [Portfolio Website](https://aryan-kth.github.io/My-Portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-sonii/)
+- 🐙 [GitHub](https://github.com/ARYAN-KTH)
 
-📫 Get in Touch
-📧 Email: aryandeveloper41@gmail.com
+---
 
-🌐 Portfolio: aryan-kth.github.io/My-Portfolio
-
-💼 LinkedIn: linkedin.com/in/aryan-sonii
-
-🐙 GitHub: ARYAN-KTH
-
-Thanks for visiting! Feel free to explore my repositories and connect with me. 😊
+🚀 Always exploring. Always building. Let’s create something amazing together!
