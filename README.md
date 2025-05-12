@@ -1,44 +1,43 @@
-# Hi there, I'm Aryan 👋
+Hi there, I'm Aryan 👋
+Welcome to my GitHub! I'm a Full Stack Developer with a passion for building scalable, high-performance web applications. I enjoy solving complex problems, writing clean code, and continuously exploring new technologies.
 
-Welcome to my GitHub profile! I'm a passionate developer, problem solver, and technology enthusiast. Here's a little about me:
+🛠️ Technologies & Tools
+Languages: HTML, CSS, JavaScript (ES6+), TypeScript
 
----
+Frontend: React, Next.js, Tailwind CSS, Shadcn
 
-## 🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript, Java, C++
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes, VS Code
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure, Google Cloud Platform
+Backend: Node.js, Express.js, RESTful APIs, JWT, Prisma, Hono
 
----
+Databases: MongoDB, Firebase, PostgreSQL
 
-## 🌱 Currently Learning
-- Advanced Machine Learning techniques
-- Blockchain development
-- Exploring Rust and GoLang
+Tools: Git, GitHub, Postman, VS Code
 
----
+🌱 Currently Learning
+Advanced backend system design
 
-## 🚀 Projects
-- **Project 1**: [Project Name](#) - Brief description of the project.
-- **Project 2**: [Project Name](#) - Brief description of the project.
-- **Project 3**: [Project Name](#) - Brief description of the project.
+Type-safe APIs with Prisma and TypeScript
 
----
+Enhancing full-stack performance optimization
 
-## 🏆 Achievements
-- Participated in [Hackathon Name] and secured [Position].
-- Contributed to [Open Source Project Name].
-- Published [Research Paper/Article] on [Topic].
+🚀 Projects
+Study Notion – A full-featured ed-tech platform where students can purchase and enroll in courses, and instructors can manage content.
+Tech Stack: JavaScript, Node.js, React, MongoDB
 
----
+Gudz – A SaaS delivery and fleet management system designed to streamline operations and improve delivery efficiency.
+Tech Stack: TypeScript, Node.js, React, MongoDB
 
-## 📫 Get in Touch
-- GitHub: [aryan-kth](https://github.com/aryan-kth)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](#)
+🏆 Achievements
+Runner-up in Intra-College Chess Championship – showcasing strategic thinking and focus.
 
----
+Active member of Aanandam Group – a community welfare organization contributing to social causes.
 
-Thanks for stopping by! Feel free to check out my repositories and connect with me. 😊
+📫 Get in Touch
+📧 Email: aryandeveloper41@gmail.com
+
+🌐 Portfolio: aryan-kth.github.io/My-Portfolio
+
+💼 LinkedIn: linkedin.com/in/aryan-sonii
+
+🐙 GitHub: ARYAN-KTH
+
+Thanks for visiting! Feel free to explore my repositories and connect with me. 😊
